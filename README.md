@@ -15,3 +15,5 @@ Toimintoja
 
 
 tietokantakaavio https://github.com/pekkaseppanen/fixtures/blob/master/tietokantakaavio.md
+
+toisen viikon harjoitus https://github.com/pekkaseppanen/tietokanta_harjoitus1
