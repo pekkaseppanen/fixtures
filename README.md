@@ -13,4 +13,5 @@ Toimintoja
 - ottelun tietojen syöttö ja muokkaus
 - otteluohjelman tulostus
 
+
 tietokantakaavio https://github.com/pekkaseppanen/fixtures/blob/master/tietokantakaavio.md
